@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamedmahmoud26
+- 👋 Hi, I’m @Mohamed Mahmoud Elseragy 
 - 👀 I’m interested in **Data Science**, **Machine Learning**, **Artificial Intelligence**
 - 🌱 I’m currently learning **Data science**
 - 💞️ I’m looking to collaborate on **Data Science Projects**, **Machine Learning Models***.
