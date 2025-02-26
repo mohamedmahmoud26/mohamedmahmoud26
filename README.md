@@ -10,14 +10,14 @@
 ---
 
 ## 🚀 About Me  
-🎓 **Data Scientist & Machine Learning Enthusiast**  
-📊 Passionate about **analyzing data, building ML models, and creating insights**  
-🤖 Currently diving deep into **AI & Deep Learning**  
-📌 Always exploring **new data science trends & technologies**  
+🔹 **Data Scientist & Machine Learning Enthusiast**  
+🔹 Passionate about **analyzing data, building ML models, and creating insights**  
+🔹 Currently diving deep into **AI & Deep Learning**  
+🔹 Always exploring **new data science trends & technologies**  
 
 ---
 
-## 🧠 Data Science Journey  
+## 🔬 Data Science Journey  
 
 ✅ **Data Cleaning & Preprocessing** – Handling missing values, outliers, and transforming data using **Pandas & NumPy**.  
 ✅ **Exploratory Data Analysis (EDA)** – Extracting insights from data using **Matplotlib, Seaborn, and Plotly**.  
@@ -25,15 +25,6 @@
 ✅ **Machine Learning** – Building predictive models using **Scikit-Learn**.  
 ✅ **Deep Learning** – Exploring **Neural Networks** with **TensorFlow & PyTorch**.  
 ✅ **Model Evaluation & Optimization** – Improving performance with **Hyperparameter Tuning & Cross-Validation**.  
-
----
-
-## 🎯 Current Focus  
-
-🔍 **Building AI-powered applications**  
-📊 **Improving Data Visualization & Dashboarding**  
-🤖 **Deep Learning & Natural Language Processing (NLP)**  
-🛠️ **MLOps & Model Deployment**  
 
 ---
 
