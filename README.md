@@ -1,24 +1,24 @@
-<h1 align="center">Hi there! 👋 I'm MohamedMahmoud Elseragy</h1>
+<h1 align="center">Hey there! 👋 I'm MohamedMahmoud Elseragy</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Data+Scientist+|+ML+Engineer+|+AI+Enthusiast;Passionate+about+Big+Data+and+AI;Solving+problems+with+Machine+Learning" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;Turning+Data+Into+Decisions;Automating+Insights+With+Machine+Learning" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250">
 
-I'm **MohamedMahmoud Elseragy**, a **Data Scientist & ML Engineer** with a strong background in **Data Analysis, Machine Learning, and AI-driven solutions**.
+I'm **MohamedMahmoud Elseragy**, a **Data Scientist & ML Engineer** with a strong passion for **Data Analysis, Machine Learning, and AI-driven innovations**.
 
-- 🎓 **Engineer with a passion for Data Science and AI**  
+- 🎓 **Engineer exploring the world of AI & Data Science**  
 - 🚀 **Kaggle Expert** in Notebooks & Datasets  
-- 🤖 Currently working on **building intelligent data-driven models**  
-- 🏆 Passionate about **Problem-Solving & Competitive Programming**  
+- 🤖 **Building AI-powered solutions to tackle real-world challenges**  
+- 🏆 **Competitive Programmer & Problem Solver**  
 
 ---
 
-## 🚀 Skills & Tech Stack  
+## 🚀 Tech Stack  
 
-### ⚡ Programming Languages  
+### 💻 Programming Languages  
 <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" height="40" />
 
 ### 📊 Data Science & Machine Learning  
@@ -29,34 +29,34 @@ I'm **MohamedMahmoud Elseragy**, a **Data Scientist & ML Engineer** with a stron
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" />
 
 ### 🛠️ DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github" height="40" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" height="40" />
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=gruvbox" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gruvbox" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 📢 Featured Projects  
+## 🌟 Featured Projects  
 
-🔹 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** – Description  
-🔹 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** – Description  
-🔹 **[Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT3)** – Description  
+🚀 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** – Short description  
+🔥 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** – Short description  
+📊 **[Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT3)** – Short description  
 
-🔗 **Check out my repositories for more cool projects!**  
+🔗 Check out more projects on my **[GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)!**  
 
 ---
 
-## 🌍 Connect With Me  
+## 📬 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
@@ -68,9 +68,9 @@ I'm **MohamedMahmoud Elseragy**, a **Data Scientist & ML Engineer** with a stron
 ## 🚀 Fun Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-🎯 **Let's connect, collaborate, and innovate!** 🚀🔥
+🔥 **Let’s innovate, code, and make an impact! 🚀💡
