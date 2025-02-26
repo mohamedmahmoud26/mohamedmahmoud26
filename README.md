@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=550&lines=Data Scientist | Machine Learning | AI Explorer;Passionate+about+Data+%26+AI;Turning+Data+into+Insights!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Machine+Learning+%7C+AI+Explorer;Passionate+about+Data+%26+AI;Turning+Data+into+Insights!" />
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 </p>
 
 ---
+صحح الخطا ال هنا
 
 صحح الخطا ال هنا
 ## 🚀 About Me  
