@@ -13,9 +13,7 @@
 </p>
 
 ---
-صحح الخطا ال هنا
 
-صحح الخطا ال هنا
 ## 🚀 About Me  
 🎯 *Data Scientist & Machine Learning Enthusiast*  
 📊 Passionate about *Data Analysis, Predictive Modeling & AI*  
