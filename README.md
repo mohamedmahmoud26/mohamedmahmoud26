@@ -101,26 +101,13 @@
 
 ---
 
-## 🔥 Fun Quote  
-
+## 🤖 Fun GIFs & Memes  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="45%"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45%"/>
 </p>
 
 ---
 
-## 🐱 **Fun Cat Break!**  
-
-<p align="center">  
-  🌟 *Take a break and enjoy this adorable cat moment!* 🌟  
-</p>  
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300">  
-</p>  
-
-<p align="center">  
-  😻 *Cats make everything better!* 🐾  
-</p>  
 
 🔹 **Feeling refreshed?** Now back to coding! 💻🚀  
