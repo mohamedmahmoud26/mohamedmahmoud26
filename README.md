@@ -101,12 +101,11 @@
 
 ---
 
-## 🔥 Fun Quote  
+## 🐱 Fun Cat Break!  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-## 🐱 Fun Cat Break!  
 
 <p align="center">
   <img src="https://example.com/my-cat.jpg" width="300">
