@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! 👋 I'm MohamedMahmoud Elseragy</h1>
+<h1 align="center"> Hey There! 👋 I'm Mohamed Mahmoud Elseragy</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -62,7 +62,7 @@
 
 ## 🚀 Featured Projects  
 
- 
+  
 
 🔍 *Find  projects on my [GitHub](https://github.com/mohamedmahmoud26)!*  
 
@@ -71,16 +71,16 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/mohamed-mahmoud-11b212271/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-11b212271/">  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />  
   </a>
   <a href="mailto:mohamedmahmoud2682003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://www.kaggle.com/mohamedmahmoud111)">
+  <a href="https://www.kaggle.com/mohamedmahmoud111">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
   </a>
-  <a href="(https://www.instagram.com/mohamed__elseragy?igsh=ZWt2ejRic3ZwOWw=)">
+  <a href="https://www.instagram.com/mohamed__elseragy?igsh=ZWt2ejRic3ZwOWw=">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
   <a href="@seegooooo">
@@ -93,14 +93,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="150" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="150" alt="Streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmahmoud26&locale=en&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=استبدل_بهذا&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
-
-## 🤖 Fun GIFs & Memes  
-<p align="center">
+## 🤖 Fun GIFs & Memes    
+<p align="center">  
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="45%"/>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45%"/>
 </p>
@@ -108,4 +107,4 @@
 ---
 
 
-🔹 **Feeling refreshed?** Now back to coding! 💻🚀  
+🔹 **Feeling refreshed?** Now back to coding! 💻
