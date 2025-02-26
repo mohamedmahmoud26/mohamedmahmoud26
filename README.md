@@ -107,7 +107,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
+## 🐱 Fun Cat Break!  
+
 <p align="center">
-  <img src="https://example.com/my-cat.jpg" width="300">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300">
 </p>
+--
 🔥 *Your profile is now fully upgraded with animated visuals! 🚀💡*
