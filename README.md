@@ -82,8 +82,11 @@
   <a href="https://www.kaggle.com/YOUR_KAGGLE">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" height="30" />
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
   </a>
 </p>
 
@@ -106,4 +109,4 @@
 
 ---
 
-🔥 **Now your profile is 🔥 Data Scientist-Ready! 🚀💡**  
+🔥 **Your profile is now fully upgraded with animated visuals! 🚀💡**  
