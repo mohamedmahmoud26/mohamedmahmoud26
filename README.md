@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mohamedmahmoud+Elseragy!;Data+Scientist+%7C+ML+Engineer;Passionate+About+AI+%26+Big+Data;Building+Smart+Solutions!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mohamedmahmoud+Elseragy!;Data+Scientist+%7C+ML+Engineer;AI+%26+Big+Data+Enthusiast;Building+Smart+Solutions!">
 </p>
 
 <p align="center">
@@ -12,17 +12,25 @@
 
 ## 📌 About Me  
 🧠 **Data Scientist | Machine Learning Engineer**  
-📊 **Loves analyzing and visualizing data**  
-🚀 **Building AI models & automation tools**  
-🎯 **Solving real-world problems with Machine Learning**  
-📚 **Always learning new tech & frameworks**  
-⚡ **Fun fact:** I enjoy AI, automation, and creating smart solutions!  
+📊 **Expert in Data Analysis, AI & Machine Learning**  
+🚀 **Building AI-powered solutions & automation tools**  
+🎯 **Passionate about Big Data, Automation & AI-driven insights**  
+📚 **Currently learning advanced Data Engineering techniques**  
+⚡ **Fun fact:** I automate boring tasks so humans can focus on creativity!  
+
+---
+
+## 🏗️ My Career Journey  
+📌 **2021 - Present:** Data Scientist @ [Company Name]  
+📌 **2019 - 2021:** ML Engineer @ [Company Name]  
+📌 **2017 - 2019:** Data Analyst @ [Company Name]  
+📌 **2015 - 2017:** Software Engineer @ [Company Name]  
 
 ---
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,matplotlib,seaborn,sql,postgres,mysql,git,github,linux,docker,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,matplotlib,seaborn,sql,postgres,mysql,git,github,linux,docker,fastapi,aws,gcp" />
 </p>
 
 ---
@@ -40,9 +48,22 @@
 ---
 
 ## 🎯 Featured Projects  
-🚀 **[Project 1: AI-Powered Data Analysis](#)**  
-📊 **[Project 2: Machine Learning Prediction Model](#)**  
-🛠 **[Project 3: Data Cleaning & Visualization Tool](#)**  
+🚀 **[AI-Powered Data Analysis](#)** - A tool that extracts insights from massive datasets  
+📊 **[ML Prediction Model](#)** - Predictive analytics using advanced ML techniques  
+🛠 **[Data Cleaning & Visualization Tool](#)** - Automating data preprocessing and visualization  
+
+---
+
+## 📆 My Work Schedule (كاجل بتاعي)  
+⏰ **Monday - Friday:**  
+- ☀️ **Morning:** Data analysis & modeling  
+- 🌆 **Afternoon:** AI research & development  
+- 🌙 **Evening:** Code review & learning  
+
+🎮 **Weekends:**  
+- 🛠️ **Open-source contributions**  
+- 📖 **Reading AI & ML papers**  
+- 🏋️ **Gym & self-improvement**  
 
 ---
 
@@ -53,6 +74,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
