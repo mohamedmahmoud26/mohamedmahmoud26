@@ -9,31 +9,40 @@
 
 ---
 
-## 🧠 What I've Learned in Data Science  
+## 🚀 About Me  
+🎓 **Data Scientist & Machine Learning Enthusiast**  
+📊 Passionate about **analyzing data, building ML models, and creating insights**  
+🤖 Currently diving deep into **AI & Deep Learning**  
+📌 Always exploring **new data science trends & technologies**  
+
+---
+
+## 🧠 Data Science Journey  
 
 ✅ **Data Cleaning & Preprocessing** – Handling missing values, outliers, and transforming data using **Pandas & NumPy**.  
 ✅ **Exploratory Data Analysis (EDA)** – Extracting insights from data using **Matplotlib, Seaborn, and Plotly**.  
 ✅ **Feature Engineering** – Selecting & transforming features for better ML model performance.  
 ✅ **Machine Learning** – Building predictive models using **Scikit-Learn**.  
 ✅ **Deep Learning** – Exploring **Neural Networks** with **TensorFlow & PyTorch**.  
-✅ **Statistics & Probability** – Understanding distributions, hypothesis testing, and regression models.  
 ✅ **Model Evaluation & Optimization** – Improving performance with **Hyperparameter Tuning & Cross-Validation**.  
 
 ---
 
-## 🔥 What I'm Currently Working On  
+## 🎯 Current Focus  
 
-🚀 **Applying Machine Learning & AI to solve real-world problems**.  
-📊 **Enhancing Data Visualization & Dashboarding for better storytelling**.  
-🤖 **Deep Diving into Deep Learning & NLP (Natural Language Processing)**.  
-🛠️ **Exploring MLOps & Model Deployment for production-ready AI systems**.  
+🔍 **Building AI-powered applications**  
+📊 **Improving Data Visualization & Dashboarding**  
+🤖 **Deep Learning & Natural Language Processing (NLP)**  
+🛠️ **MLOps & Model Deployment**  
 
 ---
 
 ## 📈 Tech Stack  
 
 ### 🐍 Programming Language  
-<img src="https://skillicons.dev/icons?i=python" height="50" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
 
 ### 📊 Data Science & Machine Learning  
 <p align="left">
@@ -46,13 +55,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" />
 </p>
 
-### 📡 Model Evaluation & Optimization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Hyperparameter Tuning-0057B8?style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Cross Validation-9C27B0?style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Gradient Boosting-4CAF50?style=for-the-badge" height="30" />
-</p>
-
 ### 🛠️ Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jupyter,github,vscode" height="50" />
@@ -60,22 +62,41 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🚀 Featured Projects  
 
-🚀 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** – Machine Learning model to predict XYZ.  
-📊 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** – Exploratory Data Analysis & Visualization.  
+📊 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** – Machine Learning model to predict XYZ.  
+📈 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** – Exploratory Data Analysis & Visualization.  
 🤖 **[Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT3)** – Deep Learning-based Image Classification.  
 
-🔗 Check out more projects on my **[GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)!**  
+💡 **More projects on my [GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)!**  
 
 ---
 
-## 📬 Connect With Me  
+## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE)  
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" height="30" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="150" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="150" alt="Streak graph"/>
+</p>
 
 ---
 
@@ -87,4 +108,4 @@
 
 ---
 
-🔥 **Now this is a Data Science profile! 🚀💡**  
+🔥 **Now your profile is 🔥 Data Scientist-Ready! 🚀💡**  
