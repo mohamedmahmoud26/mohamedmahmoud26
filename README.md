@@ -101,16 +101,26 @@
 
 ---
 
-## 🐱 Fun Cat Break!  
+## 🔥 Fun Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-## 🐱 Fun Cat Break!  
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300">
-</p>
---
-🔥 *Your profile is now fully upgraded with animated visuals! 🚀💡*
+## 🐱 **Fun Cat Break!**  
+
+<p align="center">  
+  🌟 *Take a break and enjoy this adorable cat moment!* 🌟  
+</p>  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300">  
+</p>  
+
+<p align="center">  
+  😻 *Cats make everything better!* 🐾  
+</p>  
+
+🔹 **Feeling refreshed?** Now back to coding! 💻🚀  
