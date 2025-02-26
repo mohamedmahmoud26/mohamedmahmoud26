@@ -62,30 +62,28 @@
 
 ## 🚀 Featured Projects  
 
-📊 *[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)* – Machine Learning model for XYZ.  
-📈 *[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)* – Exploratory Data Analysis & Visualization.  
-🤖 *[Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT3)* – Deep Learning-based Image Classification.  
+ 
 
-🔍 *Find more projects on my [GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)!*  
+🔍 *Find  projects on my [GitHub](https://github.com/mohamedmahmoud26)!*  
 
 ---
 
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-mahmoud-11b212271/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+  <a href="[https://www.kaggle.com/YOUR_KAGGLE](https://www.kaggle.com/mohamedmahmoud111)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <a href="[https://www.instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/mohamed__elseragy?igsh=ZWt2ejRic3ZwOWw=)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="@seegooooo">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
   </a>
 </p>
