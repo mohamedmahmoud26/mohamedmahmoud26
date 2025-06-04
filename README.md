@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There! 👋 I'm Mohamed Mahmoud Elseragy</h1>
+<h1 align="center"> 👋 Mohamed Mahmoud Elseragy</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🎯 **Driven Data Scientist & Machine Learning Enthusiast** | Passionate about leveraging data for impactful insights and building intelligent systems. Currently delving into **Deep Learning and Generative AI**, with a strong foundation in data analysis and predictive modeling. Actively honing my skills through problem-solving and continuous learning in the ever-evolving field of Machine Learning.
+🔬 A passionate **Data Scientist** dedicated to transforming raw data into insightful narratives and impactful solutions through the power of **Machine Learning and Artificial Intelligence**. Currently expanding my expertise in the exciting realms of **Deep Learning and Generative AI**.
 
 ---
 
