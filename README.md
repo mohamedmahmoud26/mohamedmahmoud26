@@ -1,122 +1,108 @@
-<h1 align="center"> Hey There! 👋 I'm Mohamed Mahmoud Elseragy</h1>
+<h1 align="center">👋 Hello, I'm Khaled Sherif Gaber</h1>
+<h2 align="center">Junior Data Scientist | Machine Learning Enthusiast</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <a href="https://github.com/khaledsherifgaber1">
+    <img src="https://img.shields.io/github/followers/khaledsherifgaber1?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-sherif-11b2161b7/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Sherif%20Gaber-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/khaledsherif22" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-Khaled%20Sherif-orange?logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Your%20Email-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
+---
+
+## 📖 About Me
+
+I'm a dedicated **Junior Data Scientist** passionate about leveraging data to drive decision-making and foster innovation. With a strong foundation in **machine learning**, **data analysis**, and **artificial intelligence**, I thrive on tackling complex problems and developing solutions that create real impact. My academic background includes hands-on research and published work in IEEE, which has honed my skills in Python, data visualization, and various machine learning techniques. I'm particularly interested in **predictive modeling**, **computer vision**, and **natural language processing**. Outside of work, I'm committed to continuous learning and exploring new technologies to stay ahead in this rapidly evolving field.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages & Libraries
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Machine+Learning+%7C+AI+Explorer;Passionate+about+Data+%26+AI;Turning+Data+into+Insights!" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-Programming%20Language-yellow?logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-Programming%20Language-red?logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r&logoColor=white" alt="R"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-green?logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-lightblue?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
 </p>
 
+### Databases & Web Frameworks
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-NoSQL%20Database-green?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-Web%20Framework-green?logo=django&logoColor=white" alt="Django"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-Web%20Framework-lightgrey?logo=flask&logoColor=white" alt="Flask"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Projects
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a strong enthusiasm for transforming raw data into actionable insights and robust predictive models. I thrive on solving complex problems and am constantly exploring the evolving landscapes of Deep Learning and Generative AI to push the boundaries of what's possible. My goal is to leverage data-driven approaches to create impactful solutions.
+Here are a few highlights from my portfolio. You can find more of my work on my [GitHub profile](https://github.com/khaledsherifgaber1)!
 
----
-
-## 🔬 Data Science Journey
-
-My expertise spans the entire data science lifecycle, from data manipulation to model deployment:
-
-✔ **Data Cleaning & Preprocessing** – Proficient in handling missing values, outliers, and transforming raw data using Pandas & NumPy.
-✔ **Exploratory Data Analysis (EDA)** – Skilled in extracting meaningful insights from data through advanced visualizations with Matplotlib, Seaborn, and Plotly.
-✔ **Feature Engineering** – Optimizing dataset features to significantly enhance Machine Learning model performance.
-✔ **Machine Learning** – Experienced in training and deploying a variety of predictive models using Scikit-Learn.
-✔ **Deep Learning** – Actively exploring and implementing Neural Networks with frameworks like TensorFlow & PyTorch.
-✔ **Model Evaluation & Optimization** – Dedicated to enhancing model performance through rigorous Hyperparameter Tuning and Cross-Validation techniques.
-
----
-
-## 📈 Tech Stack
-
-### 🐍 Programming Language
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge" height="30" />
-</p>
-
-### 🛠 Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Seaborn-009688?logo=seaborn&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" />
-</p>
-
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Here are a few highlights from my portfolio. You can find more on my [GitHub Profile](https://github.com/mohamedmahmoud26)!
-
-### **Project Title 1**
-* **Description:** A brief, compelling description of the project (1-2 sentences). What problem does it solve? What was the main goal?
+### **California Housing Price Prediction**
+* **Description:** Developed a machine learning model to predict California housing prices, focusing on data preprocessing, exploratory data analysis, and model evaluation.
 * **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib
-* **[View Project on GitHub](https://github.com/mohamedmahmoud26/your-repo-name-1)** (Replace with actual link to project repo)
+* **[View Project on GitHub](https://github.com/khaledsherifgaber1/California-Housing-Price-Prediction.git)**
 
 ### **Project Title 2**
-* **Description:** Another concise description highlighting the project's impact or innovative aspect.
-* **Technologies Used:** Python, TensorFlow/PyTorch, NumPy
-* **[View Project on GitHub](https://github.com/mohamedmahmoud26/your-repo-name-2)** (Replace with actual link to project repo)
+* **Description:** (Provide a concise, 1-2 sentence description of your second most impactful project. What problem did it solve? What was your role?)
+* **Technologies Used:** (List key technologies, e.g., Python, TensorFlow, OpenCV)
+* **[View Project on GitHub](https://github.com/khaledsherifgaber1/another-project-repo)** (Update this link and project name)
 
 ### **Project Title 3 (Optional)**
-* **Description:** A third example showcasing a different skill set or domain if applicable.
-* **Technologies Used:** Python, Seaborn, Plotly, Jupyter
-* **[View Project on GitHub](https://github.com/mohamedmahmoud26/your-repo-name-3)** (Replace with actual link to project repo)
+* **Description:** (Add another project if you have one that showcases a different skill set or domain, like NLP or a different type of model.)
+* **Technologies Used:** (List key technologies)
+* **[View Project on GitHub](https://github.com/khaledsherifgaber1/yet-another-project-repo)** (Update this link and project name)
 
 ---
 
-## 🌍 Connect With Me
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mahmoud-11b212271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="mailto:mohamedmahmoud2682003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.kaggle.com/mohamedmahmoud111">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.instagram.com/mohamed__elseragy?igsh=ZWt2ejRic3ZwOWw=">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
-  <a href="https://t.me/seegooooo"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledsherifgaber1&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledsherifgaber1&layout=compact&hide_title=true&theme=radical&border_radius=10" alt="Top Languages"/>
+</p>
+
+---
+
+## 📝 Latest Articles
+
+<p align="center">
+  <a href="https://medium.com/@gaberkhaled780/navigating-missing-data-choosing-the-right-imputation-method-for-your-dataset-f38ae0670a3c" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Medium-Article%20on%20Imputation%20Methods-orange?logo=medium&logoColor=white" alt="Medium Article"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmahmoud26&locale=en&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=mohamedmahmoud26&theme=radical&hide_border=true" height="150" /> </p>
-
----
-
-## 😂 A Little Humor (Optional)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="45%"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45%"/>
-</p>
-
----
-
-Happy Coding! 💻
+Feel free to customize the project descriptions and add more projects that best represent your skills and interests!
