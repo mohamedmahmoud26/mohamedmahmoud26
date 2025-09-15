@@ -26,6 +26,7 @@ Currently focusing on **deep learning, generative AI, and large-scale data syste
 ### Programming & Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -48,11 +49,47 @@ Currently focusing on **deep learning, generative AI, and large-scale data syste
 
 ---
 
+## 📂 Featured Repositories  
+
+- 🚀 [Rainfall Prediction](https://github.com/mohamedmahmoud26/Rainfall-Prediction) – Data preprocessing + ML model + Visualization.  
+- 🧬 [MIT-BIH ECG Analysis](https://github.com/mohamedmahmoud26/ECG-Arrhythmia-Analysis) – ECG signal analysis + Classification.  
+- 🛰️ [EuroSAT Land Use Classification](https://github.com/mohamedmahmoud26/EuroSAT-VGG) – Satellite image classification with VGG.  
+- 🌍 [Olympics Data Analysis](https://github.com/mohamedmahmoud26/Olympics-Data-Analysis) – Historical Olympics dataset exploration + Visualization.  
+- 📊 [GDP per Capita Analysis](https://github.com/mohamedmahmoud26/GDP-Analysis) – Data cleaning + Visualization project.  
+
+---
+
+## 🏆 Achievements  
+
+- 🌟 Kaggle Projects & Competitions.  
+- 📜 Certificates from [Kaggle](https://www.kaggle.com/mohamedmahmoud111) & [DataCamp](https://www.datacamp.com).  
+- 🏅 AI Hackathon Finalist – 2024.  
+
+---
+
+## 📖 Currently Learning  
+
+- Advanced Deep Learning Architectures (**Transformers, GANs**).  
+- Deployment of ML models with **Docker & FastAPI**.  
+- Improving English for **technical communication**.  
+
+---
+
 ## 📊 GitHub Analytics  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedmahmoud26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoud26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedmahmoud26&theme=tokyonight&hide_border=true)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
