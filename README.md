@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Header GIF -->
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Mohamed+Mahmoud+Elseragy;Machine+Learning+Engineer;Computer+Vision+Specialist;Data+Scientist;AI+Research+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Mohamed+Mahmoud+Elseragy;Machine+Learning+Engineer;Computer+Vision+Specialist;Data+Scientist;AI+Research+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,63 +15,55 @@
 
 ## 👨‍💻 About Me  
 
-Data Scientist & Machine Learning Engineer passionate about **Computer Vision, AI research, and data-driven solutions**.  
-I build **end-to-end ML pipelines**, from **data cleaning → model training → deployment with Docker/Flask/FastAPI**.  
-Currently focusing on **deep learning, generative AI, and large-scale data systems**.  
+I’m a **Machine Learning Engineer & Data Scientist** passionate about building **AI-driven solutions**.  
+From **data preprocessing → model training → deployment**, I enjoy every step of the ML pipeline.  
+Currently diving into **Deep Learning, Computer Vision, and Generative AI**.  
 
 ---
 
 ## ⚡ Tech Stack  
 
-### Programming & Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Data Science & Machine Learning  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Deployment & Tools  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,sklearn,docker,fastapi,flask,git,linux,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Repositories  
 
-- 🚀 [Rainfall Prediction](https://github.com/mohamedmahmoud26/Rainfall-Prediction) – Data preprocessing + ML model + Visualization.  
-- 🧬 [MIT-BIH ECG Analysis](https://github.com/mohamedmahmoud26/ECG-Arrhythmia-Analysis) – ECG signal analysis + Classification.  
-- 🛰️ [EuroSAT Land Use Classification](https://github.com/mohamedmahmoud26/EuroSAT-VGG) – Satellite image classification with VGG.  
-- 🌍 [Olympics Data Analysis](https://github.com/mohamedmahmoud26/Olympics-Data-Analysis) – Historical Olympics dataset exploration + Visualization.  
-- 📊 [GDP per Capita Analysis](https://github.com/mohamedmahmoud26/GDP-Analysis) – Data cleaning + Visualization project.  
+<p align="center">
+  <a href="https://github.com/mohamedmahmoud26/Rainfall-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmahmoud26&repo=Rainfall-Prediction&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mohamedmahmoud26/ECG-Arrhythmia-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmahmoud26&repo=ECG-Arrhythmia-Analysis&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamedmahmoud26/EuroSAT-VGG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmahmoud26&repo=EuroSAT-VGG&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mohamedmahmoud26/Olympics-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmahmoud26&repo=Olympics-Data-Analysis&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 Achievements  
 
-- 🌟 Kaggle Projects & Competitions.  
-- 📜 Certificates from [Kaggle](https://www.kaggle.com/mohamedmahmoud111) & [DataCamp](https://www.datacamp.com).  
-- 🏅 AI Hackathon Finalist – 2024.  
+- 🌟 Kaggle Projects & Competitions  
+- 📜 Certificates from **Kaggle & DataCamp**  
+- 🏅 Finalist – **AI Hackathon 2024**  
 
 ---
 
 ## 📖 Currently Learning  
 
-- Advanced Deep Learning Architectures (**Transformers, GANs**).  
-- Deployment of ML models with **Docker & FastAPI**.  
-- Improving English for **technical communication**.  
+- ⚡ Transformers & GANs  
+- ⚡ ML deployment with Docker & FastAPI  
+- ⚡ Technical English writing  
 
 ---
 
@@ -82,11 +74,9 @@ Currently focusing on **deep learning, generative AI, and large-scale data syste
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoud26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
----
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedmahmoud26&theme=tokyonight&hide_border=true)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedmahmoud26&theme=tokyonight&hide_border=true)  
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
